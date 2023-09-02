@@ -17,7 +17,7 @@ public class phuongtrinhbacnhat {
 
         } else {
             x = -b / a;
-            System.out.println("Có nghiệm x =" + x);
+            System.out.println("Phương trình có nghiệm x =" + x);
         }
     }
 }
